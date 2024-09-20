@@ -2,6 +2,14 @@
   "name": "Lewis Hamilton",
   "country": "Great Britain",
   "carNumber": 44,
-  "isChampi"
-
+  "isChampion": true,
+  "yearOfChampionships": [2008, 2014, 2015, 2017, 2018, 2019, 2020],
+  "raceStarts": 300,
+  "wins": 103,
+  "yearDebut": 2007,
+  "poles": 104,
+  "podiuns": 201,
+  "racesToFirstWin": 7,
+  "lapsLeading": 5455,
+  "points": 4639.5
 }
